@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Sema Demir.<br> I'm a developer who builds applications with HTML5, CSS3, <br>JavaScript and REACT.<br>to work and<br>and I enjoy acting in a disciplined manner.<br>👀 Any project that people can use and benefit from easily excites me. I continue to improve myself in every field, whether mobile or web, by reading and researching.<br>I am prone to teamwork<br>💞️ I'm thinking of collaborating on projects where I can work together, guide or provide assistance.<br>📫Email address where you can reach me<br>semademir0505@gmail.com<br>You can also reach us via LinkedIn by clicking the link below.<br><br>    <br>
+Hello, I am Sema Demir.<br> I'm a developer who builds applications with HTML5, CSS3, Bootstrap, Tailwind, Sass,  <br>JavaScript and REACT.<br>to work and<br>and I enjoy acting in a disciplined manner.<br>👀 Any project that people can use and benefit from easily excites me. I continue to improve myself in every field, whether mobile or web, by reading and researching.<br>I am prone to teamwork<br>💞️ I'm thinking of collaborating on projects where I can work together, guide or provide assistance.<br>📫Email address where you can reach me<br>semademir0505@gmail.com<br>You can also reach us via LinkedIn by clicking the link below.<br><br>    <br>
 
 
 ## 🌐 Socials:
