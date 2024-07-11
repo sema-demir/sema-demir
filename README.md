@@ -21,11 +21,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sema-demir&" alt="sema-demir" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sema-demir&show_icons=true&locale=tr&layout=compact" alt="sema-demir" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sema-demir&show_icons=true&locale=tr" alt="sema-demir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sema-demir&" alt="sema-demir" /></p>
 
 
 
